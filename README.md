@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+### I'm Jahid Hasan Pallob
+### A Full-Stack Web Develper
+
+Tools: 
+- Node.js
+- React.js
+- Express.js
+- Mongodb
+- PostgreSQL
+- GraphQL
+- Docker
+
 <!--
 **PallobJahid/pallobjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
