@@ -6,11 +6,14 @@
 Tools: 
 - Node.js
 - React.js
+- Next.js
 - Express.js
 - Mongodb
+- Nest.js
 - PostgreSQL
 - GraphQL
 - Docker
+- Nginx
 
 Languages:
 - Javascript
