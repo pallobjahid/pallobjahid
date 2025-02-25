@@ -7,6 +7,8 @@ Tools:
 - Node.js
 - React.js
 - Next.js
+- Vue.js
+- Firebase
 - Express.js
 - Mongodb
 - Nest.js
